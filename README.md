@@ -1,0 +1,2 @@
+# krodium
+My AI Persona
