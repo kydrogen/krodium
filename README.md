@@ -15,5 +15,10 @@ My AI Persona
 3. In VSCode, set Python interpreter to Conda
 
 ## Installations
-1. `pip install -r requirements.txt`
-2. 
+1. in root folder:   `pip install -r requirements.txt`
+2. in client folder: `npm install`
+
+## Running 
+1. server: `root foler:    python server.py`
+2. client: `client folder: http-server -p 8008`
+
