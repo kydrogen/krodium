@@ -24,9 +24,13 @@ To create a chatbot with personality, you:
 3. Fine-tune the model with examples of the desired behavior.
 
 ### Examples of popular LLMs
-- **GPT**: Known for its versatility and conversational abilities.
-- **Claude**: Focuses on ethical and safe AI interactions.
-- **Llama**: Lightweight and efficient for specific tasks.
+- **GPT (OpenAI)**: Known for its versatility and conversational abilities, GPT (Generative Pre-trained Transformer) is widely used for tasks like content generation, coding assistance, and customer support.
+- **Claude (Anthropic)**: Focuses on ethical and safe AI interactions. Claude is designed to prioritize user safety and minimize harmful outputs, making it suitable for sensitive applications.
+- **Llama (Meta)**: Open source, lightweight, and efficient for specific tasks. Llama is ideal for researchers and developers who want to experiment with LLMs without heavy computational requirements.
+- **Gemini (Google DeepMind)**: A cutting-edge model designed to integrate advanced reasoning capabilities with conversational AI. Gemini aims to push the boundaries of AI by combining language understanding with problem-solving skills.
+- **Open Models**: Available for download from platforms like [Ollama](https://ollama.com/search), these models provide flexibility for developers to host and fine-tune LLMs locally.
+- **LLM Arena**: A leaderboard of user-ranked models using ELO scoring, available at [LLM Arena](https://lmarena.ai/leaderboard).
+- **State of the Art (SoTA) Models**: Track the latest advancements in AI with [Artificial Analysis](https://artificialanalysis.ai/leaderboards/models?frontier_models=frontier), which lists frontier models and their capabilities.
 
 ### Analogy for LLMs
 Imagine an LLM as a giant library. Each book represents a piece of knowledge. When you ask a question, the LLM quickly "reads" the relevant books and writes a response based on what it learned.
