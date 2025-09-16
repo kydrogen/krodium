@@ -1,0 +1,12 @@
+{
+  "name": "krodium-client",
+  "version": "1.0.0",
+  "description": "Client for Krodium",
+  "main": "index.js",
+  "scripts": {
+    "test-client": "node src/static/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.0.0"
+  }
+}

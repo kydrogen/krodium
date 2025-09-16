@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Krodium</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="static/css/styles.css">
 </head>
 <body>
     <div class="chat-container">
@@ -35,7 +35,7 @@
 
             try {
                 // Send the message to the server
-                const response = await fetch('http://127.0.0.1:8000/chat', {
+                const response = await fetch('http://127.0.0.1:8000/api/chat', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
