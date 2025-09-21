@@ -59,3 +59,5 @@
   - Test the chatbot thoroughly and refine its responses. Include debugging tips and iterative improvement strategies.
 - [ ] **Explore advanced features**
   - Brainstorm and implement advanced features like memory, context retention, or voice interaction. Include resources for learning these concepts.
+- [ ] **Context Storage and Retrieval**
+  - Store context as graph, find relevant context data using LLM
